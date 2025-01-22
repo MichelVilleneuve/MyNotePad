@@ -1,3 +1,3 @@
 # MyNotePad  
 
-<img scr = "MyNotePad.png" >
+<img scr = "MyNotePad.png" />
